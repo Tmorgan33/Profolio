@@ -19,16 +19,36 @@ h1 {
   }
 
 div {
-    position: relative;
+    position: center;
     width: 420px;
-    height: 75px;
-    padding: 10px;
+    height: 100px;
     background: rgb(179,217,252);
-    margin: 0;
-  }
+    margin-left: auto;
+    margin-right: auto;
+      }
   h2 {
     text-align: center;
     font-size: 85px;
     color: rgb(87, 5, 5); 
     
 }
+h4 {
+    text-align: center;
+    font-size: 40px;
+    color: rgb(179,217,252); 
+}
+div {
+    position: center;
+    width: 420px;
+    height: 100px;
+    background: rgb(179,217,252);
+    margin-left: auto;
+    margin-right: auto;
+      }
+h3 {
+    text-align: center;
+    font-size: 85px;
+    color: rgb(87, 5, 5); 
+}
+
+      
